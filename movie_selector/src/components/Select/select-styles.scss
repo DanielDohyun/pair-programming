@@ -1,0 +1,35 @@
+@import '../../GeneralStyles/partials/typography.scss';
+
+.select-page { 
+    width: 100%;
+    height: 100vh;
+    background-image: url('../../assets/select-page.jpg');
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    &__title { 
+        margin-top: 0rem;
+        padding-top: 5rem;
+        display: flex; 
+        justify-content: center;
+        font-size: 4em;
+        font-family: "Limelight";
+        color: #ffffff;
+    }
+    // &__btn { 
+    //     position: absolute;
+    //     right: 8rem;
+    //     top: 27rem;
+    //     text-decoration: none;
+    //     font-family: "Limelight";
+    //     background-color: #cc0000;
+    //     color: #ffffff;
+    //     font-size: 2em;
+    //     padding: 1rem;
+    //     border-radius: 5px;
+    //     box-shadow: 10px 5px 5px 1px rgba(0, 0, 0, .5);
+    //     &:hover { 
+    //         box-shadow: none;
+    //     }
+    // }
+}

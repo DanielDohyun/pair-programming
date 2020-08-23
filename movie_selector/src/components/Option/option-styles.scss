@@ -1,0 +1,30 @@
+@import '../../GeneralStyles/partials/typography.scss';
+
+.option-section { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.option-card { 
+    text-decoration: none;
+    width: 25%;
+    height: 10%;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin: 2rem;
+    box-shadow: 10px 5px 5px 1px rgba(0, 0, 0, .5);
+        &:hover { 
+            box-shadow: none;
+            cursor: pointer;
+        }
+    &__title { 
+        text-decoration: none;
+        font-size: 2em;
+        font-family: "Limelight";
+        color: #000000;
+    }
+}

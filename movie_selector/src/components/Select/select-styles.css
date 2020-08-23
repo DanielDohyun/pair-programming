@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "Limelight";
+  src: url("../../assets/fonts/Limelight-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+
+.select-page {
+  width: 100%;
+  height: 100vh;
+  background-image: url("../../assets/select-page.jpg");
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+
+.select-page__title {
+  margin-top: 0rem;
+  padding-top: 5rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-size: 4em;
+  font-family: "Limelight";
+  color: #ffffff;
+}
+/*# sourceMappingURL=select-styles.css.map */

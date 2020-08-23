@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,UAAU;EACN,WAAW,EAAE,WAAW;EACxB,GAAG,EAAE,+CAA+C,CAAC,kBAAkB;EACvE,WAAW,EAAE,GAAG;;;ADDpB,AAAA,YAAY,CAAC;EACT,KAAK,EAAE,IAAI;EAEX,gBAAgB,EAAE,oCAAoC;EACtD,mBAAmB,EAAE,MAAM;EAC3B,eAAe,EAAE,KAAK;EACtB,KAAK,EAAE,OAAO;EACd,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,WAAW,EAAE,MAAM;CAOtB;;AANI,AAAD,mBAAQ,CAAC;EACL,UAAU,EAAE,IAAI;EAChB,WAAW,EAAE,IAAI;EACjB,SAAS,EAAE,GAAG;EACd,WAAW,EAAE,WAAW;CAC3B",
+    "sources": [
+        "result-page-styles.scss",
+        "../../GeneralStyles/partials/_typography.scss"
+    ],
+    "names": [],
+    "file": "result-page-styles.css"
+}

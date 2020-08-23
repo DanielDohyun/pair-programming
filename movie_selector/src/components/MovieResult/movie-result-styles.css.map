@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,UAAU;EACN,WAAW,EAAE,WAAW;EACxB,GAAG,EAAE,+CAA+C,CAAC,kBAAkB;EACvE,WAAW,EAAE,GAAG;;;ADDpB,AAAA,MAAM,CAAC;EACH,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,WAAW,EAAE,MAAM;EACnB,KAAK,EAAE,GAAG;CAeb;;AAdI,AAAD,aAAQ,CAAC;EACL,MAAM,EAAE,KAAK;CAChB;;AACA,AAAD,aAAQ,CAAC;EACL,WAAW,EAAE,WAAW;EACxB,SAAS,EAAE,GAAG;EACd,aAAa,EAAE,IAAI;CACtB;;AACA,AAAD,gBAAW,CAAC;EACR,UAAU,EAAE,CAAC;EACb,SAAS,EAAE,KAAK;EAChB,UAAU,EAAE,MAAM;EAClB,cAAc,EAAE,IAAI;CACvB",
+    "sources": [
+        "movie-result-styles.scss",
+        "../../GeneralStyles/partials/_typography.scss"
+    ],
+    "names": [],
+    "file": "movie-result-styles.css"
+}

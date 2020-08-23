@@ -1,0 +1,37 @@
+@font-face {
+  font-family: "Limelight";
+  src: url("../../assets/fonts/Limelight-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+
+.movie {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 50%;
+}
+
+.movie__image {
+  height: 300px;
+}
+
+.movie__title {
+  font-family: "Limelight";
+  font-size: 3em;
+  margin-bottom: 1rem;
+}
+
+.movie__overview {
+  margin-top: 0;
+  font-size: 1.5em;
+  text-align: center;
+  padding-bottom: 4rem;
+}
+/*# sourceMappingURL=movie-result-styles.css.map */

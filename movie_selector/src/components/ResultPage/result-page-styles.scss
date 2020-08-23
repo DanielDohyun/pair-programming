@@ -1,0 +1,19 @@
+@import '../../GeneralStyles/partials/typography.scss';
+
+.result-page { 
+    width: 100%;
+    // height: 100vh;
+    background-image: url('../../assets/results-page.jpg');
+    background-position: center;
+    background-size: cover;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    &__title { 
+        margin-top: 0rem;
+        padding-top: 5rem;
+        font-size: 4em;
+        font-family: "Limelight";
+    }
+}
